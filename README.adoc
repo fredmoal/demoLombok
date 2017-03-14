@@ -1,0 +1,17 @@
+La démo du cours de MAC sur Lombok.
+
+== References
+
+La doc : https://projectlombok.org/features/index.html
+
+Milou fait un régime : http://www.icauda.com/files/jug/bordeaux_jug_milou_fait_un_regime_guava_lombok.pdf
+
+
+== Remarques
+
+Le programme plante en ligne 25,
+normal sur une tentative très frauduleuse de modifier une collection d'un objet immutable (@Value) !
+
+Un User4 montre l'utilisation des @NonNull et de @RequiredArgsConstructor
+
+Have fun !
